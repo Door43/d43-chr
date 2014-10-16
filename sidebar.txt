@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[chr:home|Door43 (chr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-chr|d43-chr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-chr/archive/master.zip|d43-chr.zip]]
+
+**Recent Changes**
+{{changes>ns = chr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/chr|Ethnologue data]]
+
